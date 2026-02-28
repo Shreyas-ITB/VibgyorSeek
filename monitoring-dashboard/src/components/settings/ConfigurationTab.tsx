@@ -256,7 +256,7 @@ const ConfigurationTab: React.FC = () => {
               Screenshot Modes
             </h3>
             <p className="text-sm text-gray-500 dark:text-gray-400 mb-4">
-              Choose how VibgyorSeek captures your team's screen activity
+              Choose how Screentime captures your team's screen activity
             </p>
             
             <div>
